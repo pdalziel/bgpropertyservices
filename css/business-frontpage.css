@@ -1,0 +1,63 @@
+/*!
+ * Start Bootstrap - Busines Frontpage (https://startbootstrap.com/template-overviews/business-frontpage)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-business-frontpage/blob/master/LICENSE)
+ *
+ */
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+    background: repeating-linear-gradient(45deg, #f1f2f7, #ecedf2, #ced4e2, #c3cada);
+  }
+}
+
+.business-header {
+  height: 50vh;
+  min-height: 300px;
+  background: url('../img/henry-co-180108-unsplash.jpg') center center no-repeat scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.card {
+  height: 100%;
+}
+
+.header-background {
+    background-color: #4d3111 !important;
+}
+
+.lt-blue-background {
+    background-color: #ecedf2 !important;
+}
+.org-background{
+    background-color:#8a5722  !important;
+}
+
+.footer-background{
+    background-color:#86421d  !important;
+}
+{
+    background-color: #86421d;
+
+    background-color: #ced4e2;
+
+    background-color:#e77423;
+
+    background-color:#8a5722;
+
+    background-color:#ecedf2;
+
+    background-color: #eec11c;
+
+    background-color:#d14628;
+
+    background-color:#c3cada;
+}
