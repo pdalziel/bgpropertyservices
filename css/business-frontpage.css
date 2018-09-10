@@ -32,6 +32,9 @@ body {
 
 .header-background {
     background-color: #4d3111 !important;
+    border-color: #4d3111 !important;
+    box-shadow:none !important;
+    outline-color: #4d3111!important;
 }
 
 .lt-blue-background {
@@ -43,6 +46,22 @@ body {
 
 .footer-background{
     background-color:#86421d  !important;
+}
+.btn.btn-primary:hover {
+    background-color: #4d3111;
+    outline-color: #4d3111!important;
+    border-color: #4d3111 !important;
+
+}
+.btn.btn-primary:active {
+    background-color: #4d3111;
+    border-color: #4d3111 !important;
+    outline-color: #4d3111!important;
+}
+.btn.btn-primary:focus {
+    background-color: #4d3111;
+    border-color: #4d3111 !important;
+    outline-color: #4d3111!important;
 }
 
 {
